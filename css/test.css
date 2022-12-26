@@ -1,23 +1,32 @@
 body{
-	background-color: lightslategrey;
+	margin: 0;
 }
-h1{
-	font-size: 30px;
-	color: teal;
+
+header{
+	background-color: #ECF0F1;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 3px;
 }
-h2{
-	color: darkred;
-	font-size: 20px;
+
+header h1{
+	color: #34495E;
 }
-.big{
-	font-size: 60px;
+
+header img{
+	border-radius: 124px;
+	width: 300px;
+	border: 20px solid #D0D3D4;
 }
-.uppercase{
-	text-transform: uppercase;
+
+main{
+	max-width: 1015px;
+	margin: 0 auto;
 }
-.big.uppercase{
-	color: navy;
-}
-h1 span{
-	color: greenyellow;
+
+main img{
+	max-width: 100%;
+	border-radius: 124px;
+	width: 220px;
+	text-align: center;
 }
