@@ -1,5 +1,7 @@
 body{
 	margin: 0;
+	font-size: 20px;
+	line-height: 30px;
 }
 
 header{
@@ -22,12 +24,29 @@ header img{
 main{
 	max-width: 1015px;
 	margin: 0 auto;
-	padding: 0 20px;
+	padding: 20px;
 }
 
 main img{
 	max-width: 100%;
-	border-radius: 124px;
+	border-radius: 130px;
 	width: 220px;
 	text-align: center;
+}
+
+h2{
+	font-size: 30px;
+	color: #34495E;
+}
+
+
+footer{
+	background-color: #ECF0F1;
+    text-align: center;
+    padding: 25px;
+}
+
+footer p{
+	margin: 0;
+	font-size: 17px;
 }
