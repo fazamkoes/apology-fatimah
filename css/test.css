@@ -39,6 +39,13 @@ h2{
 	color: #34495E;
 }
 
+a{
+	color: #5D6D7E;
+}
+a:hover{
+	color: #DFD2A4;
+}
+
 
 footer{
 	background-color: #ECF0F1;
